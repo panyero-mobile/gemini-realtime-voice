@@ -10,4 +10,4 @@ python realtime.py
 
 make sure that u are running realtime.py only
 
-live,py -> is not working properly
+live.py -> is not working properly
