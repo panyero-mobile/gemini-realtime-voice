@@ -7,7 +7,7 @@ from google import genai
 
 model_id = "gemini-2.0-flash-exp"
 client = genai.Client(
-    api_key="YOUR_API_KEY",
+    api_key="AIzaSyAnW8kehIVQyLYiNcPWphVEllOSkPZGfiY",
     http_options={"api_version": "v1alpha"},
 )
 
